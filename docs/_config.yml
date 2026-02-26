@@ -1,7 +1,20 @@
+
 title: Academic Website
 email: ""
 description: "A minimal Jekyll site for GitHub Pages"
 baseurl: ""
 url: ""
-theme: minima
+theme: minimal-mistakes-jekyll
 markdown: kramdown
+
+# Recommended plugins for Minimal Mistakes
+plugins:
+	- jekyll-feed
+	- jekyll-seo-tag
+	- jekyll-sitemap
+
+# Basic configuration for Minimal Mistakes
+permalink: /:path/
+collections:
+	posts:
+		output: true

@@ -1,13 +1,11 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-# Welcome
-
-This is a minimal academic website scaffolded for GitHub Pages (Jekyll). Edit `docs/index.md` and other files in `docs/` to add your content.
+Welcome to your site — edit this Markdown to update the homepage. Minimal Mistakes provides flexible home layouts and sections; see the theme docs for customization.
 
 Useful links:
 
-- [About](/about.html)
+- [About](/about/)
 - Add a `publications` page and `_posts` for blog entries.
