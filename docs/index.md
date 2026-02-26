@@ -8,8 +8,8 @@ My research and writing is interdisciplinary, informed by sociocultural theory, 
 
 ## Sections
 
-- [Digital Literacies and AI](/digital-literacies-and-ai/)
-- [Affect and Embodiment](/affect-and-embodiment/)
-- [Space and Time](/space-and-time/)
-- [Positioning and Identity in Classrooms and Beyond](/positioning-and-identity/)
-- [Posthumanisms](/posthumanisms/)
+- [Digital Literacies and AI](digital-literacies-and-ai/)
+- [Affect and Embodiment](affect-and-embodiment/)
+- [Space and Time](space-and-time/)
+- [Positioning and Identity in Classrooms and Beyond](positioning-and-identity/)
+- [Posthumanisms](posthumanisms/)
