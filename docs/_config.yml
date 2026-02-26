@@ -2,7 +2,7 @@
 title: Academic Website
 email: ""
 description: "A minimal Jekyll site for GitHub Pages"
-baseurl: ""
+baseurl: "/publications"
 url: ""
 theme: minimal-mistakes-jekyll
 markdown: kramdown
