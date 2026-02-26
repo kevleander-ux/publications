@@ -1,0 +1,7 @@
+title: Academic Website
+email: ""
+description: "A minimal Jekyll site for GitHub Pages"
+baseurl: ""
+url: ""
+theme: minima
+markdown: kramdown
