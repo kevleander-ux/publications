@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: Digital Literacies and AI
 permalink: /digital-literacies-and-ai/
+nav_order: 3
 ---
 
 # Digital Literacies and AI

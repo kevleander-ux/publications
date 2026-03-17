@@ -1,20 +1,18 @@
-
-title: Academic Website
+title: Kevin Leander
 email: ""
-description: "A minimal Jekyll site for GitHub Pages"
+description: "Research and writing in literacy, technology, and education"
 baseurl: "/publications"
 url: ""
-theme: minimal-mistakes-jekyll
+theme: just-the-docs
 markdown: kramdown
 
-# Recommended plugins for Minimal Mistakes
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Basic configuration for Minimal Mistakes
+# Just the Docs configuration
+aux_links:
+  "About": "/publications/about/"
+
 permalink: /:path/
-collections:
-  posts:
-    output: true
