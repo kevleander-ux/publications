@@ -16,3 +16,9 @@ aux_links:
   "About": "/about/"
 
 permalink: /:path/
+
+sass:
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
