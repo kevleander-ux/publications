@@ -1,68 +1,36 @@
 ---
 layout: default
-title: Digital Literacies and AI
-permalink: /digital-literacies-and-ai/
-nav_order: 3
+title: Positioning and Identity
+permalink: /positioning-and-identity/
+nav_order: 6
 ---
+# Positioning and Identity
 
-# Digital Literacies and AI
+As an educational researcher, I consider myself more as a “poet” than a novelist. By that I indicate that I am attracted to the small happening, to the minor key, to the significance of the things said (and unsaid) in a particular moment as a way of opening up the world. Like good poems, these recorded moments are places of return and reinterpretation. Additionally, I have attempted in my work around interaction to consider how the movements and positions of bodies and materials relate to words spoken and displayed. How do our current means of semiotics assist us in these interpretations, and how do they come up short?
 
-As a doctoral student, I was trained by Bertram (Chip) Bruce, who was an early pioneer in the field of literacy and technology. It was Chip who first introduced me to a web browser (NCSA Mosaic), which just happened to freeze up on demonstration day in his office. My work in technology comes out of my love of machines and tinkering, out of my enduring questions regarding how education is changing in relations to technologies, and out of my concerns for how we might use technologies to make life and learning more profoundly meaningful, ethical, and equitable. 
+Boldt, G. M., & Leander, K. (2017) [PDF](/pubs/Boldt_Lean_2017_Becoming%20through.pdf). Becoming through ‘the break’: A post-human account of a child’s play. Journal of Early Childhood Literacy, 17(3), 409–425. https://doi.org/10.1177/1468798417712104
 
+Prinsen, F., Haan, M. de, & Leander, K. M. (2015) [PDF](/pubs/Prinsen%202015%20-%20Networked%20Identity.pdf). Networked Identity. YOUNG, 23(1), 19–38. https://doi.org/10.1177/1103308814557396
 
-Leander, K. M., Arnseth, H. C., Silseth, K., & Erstad, O. (2025). “It becomes like a source, just like reading the textbook”: towards an expanded GenAI-informed multiliteracies model. Pedagogies: An International Journal, 1–19. [doi:10.1080/1554480x.2025.2545203](https://doi.org/10.1080/1554480x.2025.2545203)
+Leander, K., & Boldt, G. (2013) [PDF](/pubs/Leand_Boldt_2013_Rereading.pdf). Rereading “A pedagogy of multiliteracies.” Journal of Literacy Research, 45(1), 22–46. https://doi.org/10.1177/1086296x12468587
 
-Robinson, B., & Leander, K. (2025). ‘I hope this email finds you well’: how synthetic affect circulates through MagicSchool AI. Learning, Media and Technology, 1–13. [doi:10.1080/17439884.2025.2527920](https://doi.org/10.1080/17439884.2025.2527920)
+de Haan, M., & Leander, K. M. (2011) [PDF](/pubs/de%20Haan_Lean_2011_ethnic%20boundaries.pdf). The construction of ethnic boundaries in classroom interaction through social space. Culture & Psychology, 17(3), 319–338. https://doi.org/10.1177/1354067x11408136
 
-Burriss, S. K., & Leander, K. (2024). Critical posthumanist literacy: Building theory for reading, writing, and living ethically with everyday artificial intelligence. Reading Research Quarterly, 59(4), 560–569. [doi:10.1002/rrq.565](https://doi.org/10.1002/rrq.565)
+Leander, K. M., & Osborne, M. D. (2008) [PDF](/pubs/Leander%202008%20-%20Complex%20positioning.pdf). Complex positioning: teachers as agents of curricular and pedagogical reform. Journal of Curriculum Studies, 40(1), 23–46. https://doi.org/10.1080/00220270601089199
 
-Enriquez, G., Gill, V., Campano, G., Flores, T. T., Jones, S., 
-Leander, K. M., McKnight, L., & Price-Dennis, D. (2024). Generative AI and composing: an intergenerational conversation among literacy scholars. English Teaching: Practice & Critique, 23(1), 6–22. [doi:10.1108/etpc-08-2023-0104](https://doi.org/10.1108/etpc-08-2023-0104)
+Leander, K., & Frank, A. (2006) [PDF](/pubs/Leand_Frank_2006_The%20Aesthetic.pdf). The aesthetic production and distribution of image/Subjects among online youth. E-Learning and Digital Media, 3(2), 185–206. https://doi.org/10.2304/elea.2006.3.2.185
 
-Ünlüsoy, A., Leander, K. M., & de Haan, M. (2022). Rethinking sociocultural notions of learning in the digital era: Understanding the affordances of networked platforms. E-Learning and Digital Media, 19(1), 78–92. [doi:10.1177/20427530211032302](https://doi.org/10.1177/20427530211032302)
+Leander, K. M. (2004) [PDF](/pubs/Leander_2004_They%20Took%20Out.pdf). “They took out the wrong context”: Uses of time‐Space in the practice of positioning. Ethos, 32(2), 188–213. https://doi.org/10.1525/eth.2004.32.2.188
 
-Sabey, D. B., & Leander, K. M. (2020). More connected and more divided than ever. In Handbook of Reading Research, Volume V (pp. 436–451). Routledge. [doi:10.4324/9781315676302-23](https://doi.org/10.4324/9781315676302-23)
+Holland, D., & Leander, K. (2004) [PDF](/pubs/Holland_Leander_2004.pdf). Ethnographic studies of positioning and subjectivity: An introduction. Ethos, 32(2), 127–139. https://doi.org/10.1525/eth.2004.32.2.127
 
-Leander, K. M., & Hollett, T. (2017). The embodied rhythms of learning: From learning across settings to learners crossing settings. International Journal of Educational Research, 84, 100–110. [doi:10.1016/j.ijer.2016.11.007](https://doi.org/10.1016/j.ijer.2016.11.007)
+Leander, K. M. (2002) [PDF](/pubs/Leander_2002_locating.pdf). Locating Latanya: The situated production of identity artifacts in classroom interaction. Research in the Teaching of English, 37(2), 198–250. https://doi.org/10.58680/rte20021770
 
-Hollett, T., Phillips, N. C., & Leander, K. M. (2017). Digital Geographies. In Handbook of Writing, Literacies, and Education in Digital Cultures (pp. 148–160). Routledge. [doi:10.4324/9781315465258-16](https://doi.org/10.4324/9781315465258-16)
+Leander, K. M. (2002) [PDF](/pubs/Leander_2002_Polycontext.pdf). Polycontextual construction zones: Mapping the expansion of schooled space and identity. Mind, Culture, and Activity, 9(3), 211–237. https://doi.org/10.1207/s15327884mca0903_04
 
-Leander, K. M., Scharber, C., & Lewis, C. (2017). Literacy and internet technologies. In Literacies and Language Education (pp. 43–58). Springer International Publishing. [doi:10.1007/978-3-319-02252-9_5](https://doi.org/10.1007/978-3-319-02252-9_5)
+Leander, K. M. (2002) [PDF](/pubs/Leander_2002_Silencing.pdf). Silencing in classroom interaction: Producing and relating social spaces. Discourse Processes, 34(2), 193–235. https://doi.org/10.1207/s15326950dp3402_4
 
-Prinsen, F., Haan, M. de, & Leander, K. M. (2015). Networked Identity. YOUNG, 23(1), 19–38. [doi:10.1177/1103308814557396](https://doi.org/10.1177/1103308814557396)
+Leander, K. M. (2001) [PDF](/pubs/Leander_2001_bus.pdf). “This is our freedom bus going home right now”: Producing and hybridizing space-Time contexts in pedagogical discourse. Journal of Literacy Research, 33(4), 637–679. https://doi.org/10.1080/10862960109548128
 
-Leander, K. M. & de Haan, M. (Eds.) (2015). Media and migration: Learning in a globalized world. New York: Routledge.
-
-Jiménez, R. T., Eley, C., Leander, K., & Smith, P. H. (2015). Transnational immigrant youth literacies. In Advances in Linguistics and Communication Studies (pp. 322–344). IGI Global. [doi:10.4018/978-1-4666-8668-7.ch013](https://doi.org/10.4018/978-1-4666-8668-7.ch013)
-
-de Haan, M., Leander, K., Ünlüsoy, A., & Prinsen, F. (2014). Challenging ideals of connected learning: the networked configurations for learning of migrant youth in the Netherlands. Learning, Media and Technology, 39(4), 507–535. [doi:10.1080/17439884.2014.964256](https://doi.org/10.1080/17439884.2014.964256)
-
-Leander, K. M., & de Haan, M. (2014). Editorial on Media and Migration: Learning in a Globalized World. Learning, Media and Technology, 39, 405-408.  [doi:10.1080/17439884.2014.964256](https://doi.org/10.1080/17439884.2014.964256) 
-
-Hollett, T., & Leander, K. M. (2013). Location-Based environments and technologies. In The SAGE Handbook of Digital Technology Research (pp. 387–401). SAGE Publications Ltd. [doi:10.4135/9781446282229.n26](https://doi.org/10.4135/9781446282229.n26)
-
-Ünlüsoy, A., de Haan, M., Leander, K., & Volker, B. (2013). Learning potential in youth’s online networks: A multilevel approach. Computers & Education, 68, 522–533. [doi:10.1016/j.compedu.2013.06.007](https://doi.org/10.1016/j.compedu.2013.06.007)
-
-Leander, K., & Boldt, G. (2013). Rereading “A pedagogy of multiliteracies.” Journal of Literacy Research, 45(1), 22–46. [doi:10.1177/1086296x12468587](https://doi.org/10.1177/1086296x12468587)
-
-Lankshear, C., Leander, K. M., & Knobel, M. (2011), Researching online practices. In B. Somekh and C. Lewin (Eds.) Theory and Methods in Social Research (2nd Ed.) (pp. 147-154). London: Sage Publications.
-
-Alvey, T.*, Phillips, N. C.*, Smith, B.*, Pfaff, E.*, Colt, W.*, Dalton, B., Leander, K. M. & Ma, J.* (2011). From I-Search to iSearch 2.0. English Teaching: Practice and Critique 10(4), 139-148.  [doi:10.1108/etpc](https://doi.org/10.1108/etpc) 
-
-Leander, K. M., Phillips, N. C., & Taylor, K. H. (2010). The changing social spaces of learning: Mapping new mobilities. Review of Research in Education, 34(1), 329–394. [doi:10.3102/0091732x09358129](https://doi.org/10.3102/0091732x09358129)
-
-Ünlüsoy, A.*, de Haan, M., & Leander, K. (2010). Netwerken von jongeren als nieuwe leeromgevingen. (New learning networks of youth.) Pedagogiek 30(1), 43-57.
-
-Leander, K. (2009). Composing with old and new media: Toward a parallel pedagogy. In Digital Literacies: Social Learning and Classroom Practices (pp. 147–164). SAGE Publications Ltd. [doi:10.4135/9781446288238.n10](https://doi.org/10.4135/9781446288238.n10)
-
-Leander, K. M. (2007). "You won't be needing your laptops today: Wired bodies in the wire-less classroom. In M. Knobel & C. Lankshear (Eds.), A new literacies sampler (pp. 25-48). New York: Peter Lang.
-
-Leander, K., & Frank, A. (2006). The aesthetic production and distribution of image/Subjects among online youth. E-Learning and Digital Media, 3(2), 185–206. [doi:10.2304/elea.2006.3.2.185](https://doi.org/10.2304/elea.2006.3.2.185)
-
-Leander, K. M., & Lovvorn, J. F. (2006). Literacy networks: Following the circulation of texts, bodies, and objects in the schooling and online gaming of one youth. Cognition and Instruction, 24(3), 291–340. [doi:10.1207/s1532690xci2403_1](https://doi.org/10.1207/s1532690xci2403_1)
-
-Leander, K., & Duncan, B. (2004). Community construction in the virtual: Reconceptualizing joint action. E-Learning and Digital Media, 1(3), 420–436. [doi:10.2304/elea.2004.1.3.6](https://doi.org/10.2304/elea.2004.1.3.6)
-
-Leander, K. M., & McKim, K. K. (2003). Tracing the Everyday “Sitings” of Adolescents on the Internet: a strategic adaptation of ethnography across online and offline spaces. Education, Communication & Information, 3(2), 211–240. [doi:10.1080/14636310303140](https://doi.org/10.1080/14636310303140)
-
+Leander, K. M., & Brown, D. E. (1999) [PDF](/pubs/Leander_Brown_1999.pdf). “You understand, but you don’t believe it”: Tracing the stabilities and instabilities of interaction in a physics classroom through a multidimensional framework. Cognition and Instruction, 17(1), 93–135. https://doi.org/10.1207/s1532690xci1701_4
 
