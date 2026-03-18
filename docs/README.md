@@ -6,7 +6,7 @@ This folder contains the Jekyll site published via GitHub Pages.
 
 ---
 
-## Serving the site locally
+## Serving the site locally ("run the webserver")
 
 From the **project root** (not the `docs/` folder):
 
