@@ -11,10 +11,12 @@ This folder contains the Jekyll site published via GitHub Pages.
 From the **project root** (not the `docs/` folder):
 
 ```bash
-bundle exec jekyll serve --source docs
+bundle exec jekyll serve --source docs --baseurl ""
 ```
 
-The site will be available at http://127.0.0.1:4000/publications/
+The site will be available at http://127.0.0.1:4000/
+
+> **Note:** The `--baseurl ""` override is required for local development. Without it you'll get a "not found" error. The `_config.yml` keeps `baseurl: "/publications"` for GitHub Pages — don't change that.
 
 To stop the server, press `Ctrl+C`.
 
