@@ -1,0 +1,19 @@
+# Jekyll generated output
+_site/
+docs/_site/
+
+# Jekyll cache and metadata
+.jekyll-cache/
+.jekyll-metadata
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# Ruby version managers
+.ruby-version
+
+# OS
+.DS_Store
