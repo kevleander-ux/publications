@@ -1,7 +1,7 @@
 title: Kevin Leander
 email: ""
 description: "Research and writing in literacy, technology, and education"
-baseurl: "/publications"
+baseurl: ""
 url: ""
 theme: just-the-docs
 markdown: kramdown
@@ -13,6 +13,6 @@ plugins:
 
 # Just the Docs configuration
 aux_links:
-  "About": "/publications/about/"
+  "About": "/about/"
 
 permalink: /:path/
