@@ -6,6 +6,7 @@ nav_order: 3
 ---
 
 # Digital Literacies and AI
+
 As a doctoral student, I was trained by Bertram (Chip) Bruce, who was an early pioneer in the field of literacy and technology. It was Chip who first introduced me to a web browser (NCSA Mosaic), which just happened to freeze up on demonstration day in his office. My work in technology comes out of my love of machines and tinkering, out of my enduring questions regarding how education is changing in relations to technologies, and out of my concerns for how we might use technologies to make life and learning more profoundly meaningful, ethical, and equitable. 
 
 
